@@ -17,4 +17,7 @@ A fully functioning cryptocurrency tracking application. You can keep track of c
 - 100% SwiftUI interface
 - Multi-threading (using background threads)
 - Safe coding!!! ("if let" and "guard" statements to avoid crashes)
+
+*Preview project:* https://youtu.be/5gGQvVMhdP8
+
 <img width="791" alt="image" src="https://user-images.githubusercontent.com/107930591/216073909-c5bb3f31-e2b4-4616-b8ed-c8188c3cc911.png">
