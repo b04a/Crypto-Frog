@@ -1,12 +1,12 @@
 # Crypto-Frog
 
-Project - Crypto Frog
+Project - **Crypto Frog**
 
-Programming language - Swift
+Programming language - **Swift**
 
-Framework, libraries - SwiftUI, UIKit, Combine
+Framework, libraries - **SwiftUI, UIKit, Combine**
 
-What the app does:
+**What the app does:**
 A fully functioning cryptocurrency tracking application. You can keep track of currencies purchased, sort the list, search by coin, and there is support with themes. In this project I touched on topics such as: 
 - MVVM Architecture
 - Core Data (saving current user's portfolio)
